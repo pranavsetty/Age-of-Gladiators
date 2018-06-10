@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\ \ This\ class\ is\ part\ of\ the\ "Age\ of\ Gladiators"\ application.\ \n\ "Age\ of\ Gladiators"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\n\ \n\ \n\ The\ Character\ class\ hold\ the\ following\ information\ \:-\n\ \n\ There\ are\ total\ of\ 4\ characters\ in\ the\ game\ Gold\ Smith\ ,\ Weapon\ Smith\ ,\ Money\ Smith\ and\ Magician\n\ When\ the\ player\ in\ a\ certain\ room\ and\ types\ the\ 'speak'\ command\ ,the\ character\ present\ in\ the\ room\ ,\ gives\ out\ the\ instrutions\ on\ how\ \ \n\ to\ proceeed\ further\n
+comment1.params=
+comment1.target=void\ Character()
+comment2.params=
+comment2.target=void\ speakToGoldSmith()
+comment2.text=\n\ When\ the\ player\ speaks\ to\ the\ gold\ smith\ ,\ the\ below\ output\ is\ shown\n
+comment3.params=
+comment3.target=void\ speakToWeaponSmith()
+comment3.text=\n\ When\ the\ player\ speaks\ to\ the\ weapon\ smith\ ,\ the\ below\ output\ is\ shown\n
+comment4.params=
+comment4.target=void\ speakToArmourSmith()
+comment4.text=\n\ When\ the\ player\ speaks\ to\ the\ armour\ smith\ ,\ the\ below\ output\ is\ shown\n
+comment5.params=
+comment5.target=void\ speakToMagician()
+comment5.text=\n\ When\ the\ player\ speaks\ to\ the\ magician\ ,\ the\ below\ output\ is\ shown\n
+numComments=6
